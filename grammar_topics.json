@@ -1,0 +1,26 @@
+[
+    {
+        "id": "grammar_present_simple",
+        "title": "Present Simple",
+        "description": "I work / She works",
+        "emoji": "⏱️",
+        "sort_order": 1,
+        "theory": "## When do we use it?\nUse the Present Simple to talk about habits, facts, schedules, and general truths — things that are always or usually true.\n\n## How to form\nWith I / You / We / They → use the base verb.\nWith He / She / It → add -s (or -es / -ies).\n\n### Spelling of the -s form\n• Most verbs: add -s → work / works, eat / eats\n• After -s, -sh, -ch, -x, -o: add -es → watch / watches, go / goes\n• Consonant + y: change to -ies → study / studies, try / tries\n• Irregular: have → has, do → does\n\n## Negative & question\n• Negative: I/You/We/They + don't + verb · He/She/It + doesn't + verb\n• Question: Do / Does + subject + verb …?\n\n## Examples\n> I drink coffee every morning.\n> She lives in Hanoi.\n> The sun rises in the east.\n> Do you play football? — Yes, I do.\n> He doesn't eat meat.\n\n## Common mistakes\n• ❌ She go to school → ✅ She goes to school.\n• ❌ He don't like rain → ✅ He doesn't like rain.\n• ❌ I am play tennis → ✅ I play tennis."
+    },
+    {
+        "id": "grammar_articles",
+        "title": "Articles: a / an / the",
+        "description": "When to use each",
+        "emoji": "🔤",
+        "sort_order": 2,
+        "theory": "## What is an article?\nArticles are small words (a / an / the) used before a noun to say whether it is general or specific, known or unknown.\n\n## a vs an\n• Use a before a consonant SOUND: a book, a car, a university (sounds like \"yu\")\n• Use an before a vowel SOUND: an apple, an hour (silent h), an honest answer\n\n## the\nUse the when both speaker and listener know exactly which thing is meant.\n• Specific or already mentioned: I saw a dog. The dog was big.\n• One-of-a-kind: the sun, the moon, the sky, the world\n• Superlatives: the best, the largest\n• Musical instruments: She plays the piano.\n\n## No article\nUse no article for general or uncountable nouns and for most names of people, cities, languages, meals.\n• I love music. (in general)\n• He speaks Vietnamese.\n• We had dinner at 8.\n\n## Examples\n> I want an apple, please.\n> She is a teacher.\n> The book on the table is mine.\n> Honesty is the best policy.\n\n## Common mistakes\n• ❌ She is teacher → ✅ She is a teacher.\n• ❌ I love the music → ✅ I love music. (in general)\n• ❌ An university → ✅ A university (sound starts with \"yu\")."
+    },
+    {
+        "id": "grammar_prepositions",
+        "title": "Prepositions: in / on / at",
+        "description": "Place & time",
+        "emoji": "📍",
+        "sort_order": 3,
+        "theory": "## Quick rule of thumb\nThink of size: at = a single point · on = a surface or line · in = inside something.\n\n## For TIME\n### at — clock times & specific moments\n• at 7 PM, at noon, at midnight, at sunset\n• at night, at the weekend (UK), at Christmas\n\n### on — days & dates\n• on Monday, on Friday morning\n• on April 5, on my birthday\n\n### in — months, years, seasons, parts of the day\n• in January, in 2025, in summer\n• in the morning, in the afternoon, in the evening\n• in a few minutes (future)\n\n## For PLACE\n### at — specific point or address\n• at the door, at the bus stop, at home\n• at school (= attending it), at work\n\n### on — surfaces and lines\n• on the table, on the wall, on the floor\n• on the second floor, on the corner\n\n### in — enclosed spaces / large areas\n• in the box, in the room, in the car\n• in Hanoi, in Vietnam, in the world\n\n## Examples\n> I'll see you on Monday at 9 AM.\n> She was born in May 1998.\n> The cat is in the box, on the chair, at the corner.\n\n## Common mistakes\n• ❌ In Monday → ✅ On Monday.\n• ❌ At the morning → ✅ In the morning.\n• ❌ On Hanoi → ✅ In Hanoi (cities use 'in')."
+    }
+]

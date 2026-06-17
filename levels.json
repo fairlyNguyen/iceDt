@@ -1,0 +1,38 @@
+[
+    {
+        "id": "level_1",
+        "title": "Level 1 — Foundations",
+        "subtitle": "Letters & first words",
+        "sort_order": 1
+    },
+    {
+        "id": "level_2",
+        "title": "Level 2 — Everyday words",
+        "subtitle": "Vocabulary around you",
+        "sort_order": 2
+    },
+    {
+        "id": "level_3",
+        "title": "Level 3 — Simple sentences",
+        "subtitle": "Putting words together",
+        "sort_order": 3
+    },
+    {
+        "id": "level_4",
+        "title": "Level 4 — Conversation",
+        "subtitle": "Greetings, asking, replying",
+        "sort_order": 4
+    },
+    {
+        "id": "level_5",
+        "title": "Level 5 — Daily Life",
+        "subtitle": "Weather, time, activities",
+        "sort_order": 5
+    },
+    {
+        "id": "level_6",
+        "title": "Level 6 — Real-World",
+        "subtitle": "Shop, eat out, find your way",
+        "sort_order": 6
+    }
+]

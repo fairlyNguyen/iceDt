@@ -1,0 +1,122 @@
+[
+    {
+        "id": "q_hc_1",
+        "story_id": "story_hungry_cat",
+        "prompt": "What does the cat see first on the table?",
+        "options": "Milk|An apple|A fish|A mouse",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_hc_2",
+        "story_id": "story_hungry_cat",
+        "prompt": "Why is the cat sad at first?",
+        "options": "It can't find food|Cats don't eat apples|It is tired|It is sick",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_hc_3",
+        "story_id": "story_hungry_cat",
+        "prompt": "How does the cat feel at the end?",
+        "options": "Still hungry|Not hungry anymore|Angry|Scared",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_pd_1",
+        "story_id": "story_park_day",
+        "prompt": "When does the brother and I go to the park?",
+        "options": "Saturday|Sunday|Monday|Friday",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_pd_2",
+        "story_id": "story_park_day",
+        "prompt": "What is in the park?",
+        "options": "A swimming pool|Trees, flowers, and a lake|A big shop|A school",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_pd_3",
+        "story_id": "story_park_day",
+        "prompt": "What does the brother eat?",
+        "options": "A banana|An apple|Bread|A cookie",
+        "correct_index": 0,
+        "sort_order": 3
+    },
+    {
+        "id": "q_rm_1",
+        "story_id": "story_rainy_morning",
+        "prompt": "What is the weather like?",
+        "options": "Sunny and warm|Dark, cloudy, and rainy|Snowy|Windy and dry",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_rm_2",
+        "story_id": "story_rainy_morning",
+        "prompt": "What does the narrator take to school?",
+        "options": "A book|An umbrella|A coat|Boots",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_rm_3",
+        "story_id": "story_rainy_morning",
+        "prompt": "What do they read about in class?",
+        "options": "The moon|The rain|The sun|Animals",
+        "correct_index": 2,
+        "sort_order": 3
+    },
+    {
+        "id": "q_dr_1",
+        "story_id": "story_at_restaurant",
+        "prompt": "Where does the family go for dinner?",
+        "options": "To grandma's house|To a new restaurant|To a friend's house|Home",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_dr_2",
+        "story_id": "story_at_restaurant",
+        "prompt": "What does Mom order?",
+        "options": "Pizza|Chicken soup|Smoothie|Coffee",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_dr_3",
+        "story_id": "story_at_restaurant",
+        "prompt": "Who pays the bill?",
+        "options": "Mom|The narrator|Dad|The waiter",
+        "correct_index": 2,
+        "sort_order": 3
+    },
+    {
+        "id": "q_lt_1",
+        "story_id": "story_lost_in_town",
+        "prompt": "What is Anna looking for?",
+        "options": "A restaurant|The train station|Her hotel|A friend",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_lt_2",
+        "story_id": "story_lost_in_town",
+        "prompt": "Where does she turn left?",
+        "options": "At the post office|At the supermarket|At the bank|At the park",
+        "correct_index": 2,
+        "sort_order": 2
+    },
+    {
+        "id": "q_lt_3",
+        "story_id": "story_lost_in_town",
+        "prompt": "Is the station far?",
+        "options": "Yes, very far|No, only about ten minutes|She doesn't know|Yes, an hour",
+        "correct_index": 1,
+        "sort_order": 3
+    }
+]

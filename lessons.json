@@ -1,0 +1,522 @@
+[
+    {
+        "id": "lesson_unit_alpha_0",
+        "unit_id": "unit_alpha",
+        "title": "Letters A–F",
+        "emoji": "🅰️",
+        "word_count": 6,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_alpha_1",
+        "unit_id": "unit_alpha",
+        "title": "Letters G–M",
+        "emoji": "🅱️",
+        "word_count": 7,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_alpha_2",
+        "unit_id": "unit_alpha",
+        "title": "Letters N–S",
+        "emoji": "🆎",
+        "word_count": 6,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_alpha_3",
+        "unit_id": "unit_alpha",
+        "title": "Letters T–Z",
+        "emoji": "🅾️",
+        "word_count": 7,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_numbers_0",
+        "unit_id": "unit_numbers",
+        "title": "One to Five",
+        "emoji": "1️⃣",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_numbers_1",
+        "unit_id": "unit_numbers",
+        "title": "Six to Ten",
+        "emoji": "2️⃣",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_numbers_2",
+        "unit_id": "unit_numbers",
+        "title": "Eleven to Fifteen",
+        "emoji": "3️⃣",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_numbers_3",
+        "unit_id": "unit_numbers",
+        "title": "Sixteen to Twenty",
+        "emoji": "4️⃣",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_numbers_4",
+        "unit_id": "unit_numbers",
+        "title": "Twenty-one to Thirty",
+        "emoji": "🔢",
+        "word_count": 10,
+        "sort_order": 4
+    },
+    {
+        "id": "lesson_unit_animals_0",
+        "unit_id": "unit_animals",
+        "title": "Pet animals",
+        "emoji": "🐶",
+        "word_count": 7,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_animals_1",
+        "unit_id": "unit_animals",
+        "title": "Farm animals",
+        "emoji": "🐱",
+        "word_count": 7,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_animals_2",
+        "unit_id": "unit_animals",
+        "title": "Wild animals",
+        "emoji": "🐴",
+        "word_count": 7,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_animals_3",
+        "unit_id": "unit_animals",
+        "title": "Sea animals",
+        "emoji": "🐔",
+        "word_count": 7,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_colors_0",
+        "unit_id": "unit_colors",
+        "title": "Primary colors",
+        "emoji": "🔴",
+        "word_count": 7,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_colors_1",
+        "unit_id": "unit_colors",
+        "title": "Secondary colors",
+        "emoji": "🟢",
+        "word_count": 7,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_colors_2",
+        "unit_id": "unit_colors",
+        "title": "Bright colors",
+        "emoji": "🔵",
+        "word_count": 7,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_colors_3",
+        "unit_id": "unit_colors",
+        "title": "Dark colors",
+        "emoji": "🟡",
+        "word_count": 7,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_places_0",
+        "unit_id": "unit_places",
+        "title": "At home",
+        "emoji": "🏠",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_places_1",
+        "unit_id": "unit_places",
+        "title": "At school",
+        "emoji": "🏫",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_places_2",
+        "unit_id": "unit_places",
+        "title": "Around town",
+        "emoji": "🏙️",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_places_3",
+        "unit_id": "unit_places",
+        "title": "Nature places",
+        "emoji": "🌳",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_food_0",
+        "unit_id": "unit_food",
+        "title": "Fruits",
+        "emoji": "🍎",
+        "word_count": 7,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_food_1",
+        "unit_id": "unit_food",
+        "title": "Vegetables",
+        "emoji": "🍌",
+        "word_count": 7,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_food_2",
+        "unit_id": "unit_food",
+        "title": "Drinks",
+        "emoji": "🥕",
+        "word_count": 7,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_food_3",
+        "unit_id": "unit_food",
+        "title": "Snacks",
+        "emoji": "🍞",
+        "word_count": 7,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_family_0",
+        "unit_id": "unit_family",
+        "title": "Parents",
+        "emoji": "👨",
+        "word_count": 7,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_family_1",
+        "unit_id": "unit_family",
+        "title": "Siblings",
+        "emoji": "👩",
+        "word_count": 7,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_family_2",
+        "unit_id": "unit_family",
+        "title": "Grandparents",
+        "emoji": "👶",
+        "word_count": 7,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_family_3",
+        "unit_id": "unit_family",
+        "title": "Relatives",
+        "emoji": "👵",
+        "word_count": 7,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_verbs_0",
+        "unit_id": "unit_verbs",
+        "title": "Daily actions",
+        "emoji": "🚿",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_verbs_1",
+        "unit_id": "unit_verbs",
+        "title": "Body movements",
+        "emoji": "🏃",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_verbs_2",
+        "unit_id": "unit_verbs",
+        "title": "Speak & think",
+        "emoji": "💭",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_verbs_3",
+        "unit_id": "unit_verbs",
+        "title": "Make & create",
+        "emoji": "✏️",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_greetings_0",
+        "unit_id": "unit_greetings",
+        "title": "Hello",
+        "emoji": "👋",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_greetings_1",
+        "unit_id": "unit_greetings",
+        "title": "Goodbye",
+        "emoji": "👋",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_greetings_2",
+        "unit_id": "unit_greetings",
+        "title": "Polite phrases",
+        "emoji": "🙏",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_greetings_3",
+        "unit_id": "unit_greetings",
+        "title": "Small talk",
+        "emoji": "💬",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_basicqa_0",
+        "unit_id": "unit_basicqa",
+        "title": "Asking your name",
+        "emoji": "🪪",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_basicqa_1",
+        "unit_id": "unit_basicqa",
+        "title": "Asking how you are",
+        "emoji": "🙂",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_basicqa_2",
+        "unit_id": "unit_basicqa",
+        "title": "Asking where",
+        "emoji": "📍",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_basicqa_3",
+        "unit_id": "unit_basicqa",
+        "title": "Asking what",
+        "emoji": "❓",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_weather_0",
+        "unit_id": "unit_weather",
+        "title": "Sunny days",
+        "emoji": "☀️",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_weather_1",
+        "unit_id": "unit_weather",
+        "title": "Rainy days",
+        "emoji": "🌧️",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_weather_2",
+        "unit_id": "unit_weather",
+        "title": "Cold and hot",
+        "emoji": "🌡️",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_weather_3",
+        "unit_id": "unit_weather",
+        "title": "Wild weather",
+        "emoji": "🌪️",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_time_0",
+        "unit_id": "unit_time",
+        "title": "Parts of the day",
+        "emoji": "🌅",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_time_1",
+        "unit_id": "unit_time",
+        "title": "Days of the week",
+        "emoji": "📅",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_time_2",
+        "unit_id": "unit_time",
+        "title": "Months",
+        "emoji": "🗓️",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_time_3",
+        "unit_id": "unit_time",
+        "title": "Telling time",
+        "emoji": "⏰",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_activities_0",
+        "unit_id": "unit_activities",
+        "title": "At home",
+        "emoji": "🏠",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_activities_1",
+        "unit_id": "unit_activities",
+        "title": "Sports",
+        "emoji": "⚽",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_activities_2",
+        "unit_id": "unit_activities",
+        "title": "Arts & music",
+        "emoji": "🎨",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_activities_3",
+        "unit_id": "unit_activities",
+        "title": "Outdoor fun",
+        "emoji": "🏞️",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_shopping_0",
+        "unit_id": "unit_shopping",
+        "title": "At the store",
+        "emoji": "🏪",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_shopping_1",
+        "unit_id": "unit_shopping",
+        "title": "Price & pay",
+        "emoji": "💰",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_shopping_2",
+        "unit_id": "unit_shopping",
+        "title": "Size & color",
+        "emoji": "👕",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_shopping_3",
+        "unit_id": "unit_shopping",
+        "title": "Problems & returns",
+        "emoji": "🔄",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_restaurant_0",
+        "unit_id": "unit_restaurant",
+        "title": "Order food",
+        "emoji": "📋",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_restaurant_1",
+        "unit_id": "unit_restaurant",
+        "title": "Drinks & sides",
+        "emoji": "🥤",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_restaurant_2",
+        "unit_id": "unit_restaurant",
+        "title": "Special requests",
+        "emoji": "🙋",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_restaurant_3",
+        "unit_id": "unit_restaurant",
+        "title": "Pay the bill",
+        "emoji": "🧾",
+        "word_count": 5,
+        "sort_order": 3
+    },
+    {
+        "id": "lesson_unit_directions_0",
+        "unit_id": "unit_directions",
+        "title": "Ask the way",
+        "emoji": "❓",
+        "word_count": 5,
+        "sort_order": 0
+    },
+    {
+        "id": "lesson_unit_directions_1",
+        "unit_id": "unit_directions",
+        "title": "Turns & moves",
+        "emoji": "↪️",
+        "word_count": 5,
+        "sort_order": 1
+    },
+    {
+        "id": "lesson_unit_directions_2",
+        "unit_id": "unit_directions",
+        "title": "Landmarks",
+        "emoji": "🗽",
+        "word_count": 5,
+        "sort_order": 2
+    },
+    {
+        "id": "lesson_unit_directions_3",
+        "unit_id": "unit_directions",
+        "title": "Transport",
+        "emoji": "🚇",
+        "word_count": 5,
+        "sort_order": 3
+    }
+]

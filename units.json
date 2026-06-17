@@ -1,0 +1,130 @@
+[
+    {
+        "id": "unit_alpha",
+        "level_id": "level_1",
+        "title": "Alphabet",
+        "emoji": "🔤",
+        "description": "A through Z",
+        "sort_order": 1
+    },
+    {
+        "id": "unit_numbers",
+        "level_id": "level_1",
+        "title": "Numbers",
+        "emoji": "🔢",
+        "description": "1 through 30",
+        "sort_order": 2
+    },
+    {
+        "id": "unit_animals",
+        "level_id": "level_2",
+        "title": "Animals",
+        "emoji": "🐾",
+        "description": "Pets, farm, and wild",
+        "sort_order": 1
+    },
+    {
+        "id": "unit_colors",
+        "level_id": "level_2",
+        "title": "Colors",
+        "emoji": "🎨",
+        "description": "Rainbow and beyond",
+        "sort_order": 2
+    },
+    {
+        "id": "unit_places",
+        "level_id": "level_2",
+        "title": "Places",
+        "emoji": "🏙️",
+        "description": "Home, school, town, nature",
+        "sort_order": 3
+    },
+    {
+        "id": "unit_food",
+        "level_id": "level_3",
+        "title": "Food",
+        "emoji": "🍎",
+        "description": "Fruits, drinks, meals",
+        "sort_order": 1
+    },
+    {
+        "id": "unit_family",
+        "level_id": "level_3",
+        "title": "Family",
+        "emoji": "👪",
+        "description": "Family members and roles",
+        "sort_order": 2
+    },
+    {
+        "id": "unit_verbs",
+        "level_id": "level_3",
+        "title": "Verbs",
+        "emoji": "🏃",
+        "description": "Action words",
+        "sort_order": 3
+    },
+    {
+        "id": "unit_greetings",
+        "level_id": "level_4",
+        "title": "Greetings",
+        "emoji": "👋",
+        "description": "Say hello and goodbye",
+        "sort_order": 1
+    },
+    {
+        "id": "unit_basicqa",
+        "level_id": "level_4",
+        "title": "Basic Q&A",
+        "emoji": "💬",
+        "description": "Ask and answer",
+        "sort_order": 2
+    },
+    {
+        "id": "unit_weather",
+        "level_id": "level_5",
+        "title": "Weather",
+        "emoji": "⛅",
+        "description": "Talk about the sky",
+        "sort_order": 1
+    },
+    {
+        "id": "unit_time",
+        "level_id": "level_5",
+        "title": "Time",
+        "emoji": "⏰",
+        "description": "Hours, days, schedule",
+        "sort_order": 2
+    },
+    {
+        "id": "unit_activities",
+        "level_id": "level_5",
+        "title": "Activities",
+        "emoji": "🎯",
+        "description": "Hobbies and daily life",
+        "sort_order": 3
+    },
+    {
+        "id": "unit_shopping",
+        "level_id": "level_6",
+        "title": "Shopping",
+        "emoji": "🛒",
+        "description": "At the store, prices, sizes",
+        "sort_order": 1
+    },
+    {
+        "id": "unit_restaurant",
+        "level_id": "level_6",
+        "title": "Restaurant",
+        "emoji": "🍽️",
+        "description": "Ordering and paying",
+        "sort_order": 2
+    },
+    {
+        "id": "unit_directions",
+        "level_id": "level_6",
+        "title": "Directions",
+        "emoji": "🗺️",
+        "description": "Find your way around",
+        "sort_order": 3
+    }
+]

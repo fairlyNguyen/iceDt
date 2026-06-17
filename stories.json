@@ -1,0 +1,42 @@
+[
+    {
+        "id": "story_hungry_cat",
+        "title": "The Hungry Cat",
+        "emoji": "🐱",
+        "content": "A cat is hungry. The cat sees a red apple on the table.\nThe cat is sad — cats do not eat apples.\nThen the cat sees milk in a bowl. The cat is happy!\nThe cat drinks the milk. The cat is not hungry now.",
+        "level_ordinal": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "story_park_day",
+        "title": "A Day at the Park",
+        "emoji": "🌳",
+        "content": "On Sunday, my brother and I go to the park.\nWe see green trees, yellow flowers, and a small lake.\nA dog is running. Two birds are singing in a tall tree.\nMy brother eats a banana. I drink water.\nWe play, we run, and we are very happy.",
+        "level_ordinal": 2,
+        "sort_order": 2
+    },
+    {
+        "id": "story_rainy_morning",
+        "title": "A Rainy Morning",
+        "emoji": "🌧️",
+        "content": "It is Monday morning. The sky is dark and cloudy.\nThen it starts to rain. I take my umbrella and walk to school.\nThe road is wet. A cat hides under a car.\nAt school, the teacher smiles. \"Good morning!\" she says.\nInside the warm classroom, we read a book about the sun.",
+        "level_ordinal": 3,
+        "sort_order": 3
+    },
+    {
+        "id": "story_at_restaurant",
+        "title": "Dinner at the Restaurant",
+        "emoji": "🍽️",
+        "content": "Mom and Dad take me to a new restaurant for dinner.\nA waiter brings the menu. I want pizza, but Mom orders chicken soup.\nDad has coffee. I have a cold smoothie.\nThe food is delicious. We talk and laugh together.\nAfter dinner, Dad pays the bill and says, \"Thank you!\"",
+        "level_ordinal": 5,
+        "sort_order": 4
+    },
+    {
+        "id": "story_lost_in_town",
+        "title": "Lost in Town",
+        "emoji": "🗺️",
+        "content": "Anna is in a new city. She wants to find the train station.\nShe sees a kind man. \"Excuse me,\" she says. \"Where is the station?\"\n\"Walk straight ahead,\" he answers, \"then turn left at the bank.\"\n\"Is it far?\" Anna asks. \"No, it is near. About ten minutes.\"\nAnna says \"Thank you!\" and walks happily to the station.",
+        "level_ordinal": 6,
+        "sort_order": 5
+    }
+]
