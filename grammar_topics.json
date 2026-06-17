@@ -22,5 +22,85 @@
         "emoji": "📍",
         "sort_order": 3,
         "theory": "## Quick rule of thumb\nThink of size: at = a single point · on = a surface or line · in = inside something.\n\n## For TIME\n### at — clock times & specific moments\n• at 7 PM, at noon, at midnight, at sunset\n• at night, at the weekend (UK), at Christmas\n\n### on — days & dates\n• on Monday, on Friday morning\n• on April 5, on my birthday\n\n### in — months, years, seasons, parts of the day\n• in January, in 2025, in summer\n• in the morning, in the afternoon, in the evening\n• in a few minutes (future)\n\n## For PLACE\n### at — specific point or address\n• at the door, at the bus stop, at home\n• at school (= attending it), at work\n\n### on — surfaces and lines\n• on the table, on the wall, on the floor\n• on the second floor, on the corner\n\n### in — enclosed spaces / large areas\n• in the box, in the room, in the car\n• in Hanoi, in Vietnam, in the world\n\n## Examples\n> I'll see you on Monday at 9 AM.\n> She was born in May 1998.\n> The cat is in the box, on the chair, at the corner.\n\n## Common mistakes\n• ❌ In Monday → ✅ On Monday.\n• ❌ At the morning → ✅ In the morning.\n• ❌ On Hanoi → ✅ In Hanoi (cities use 'in')."
+    },
+    {
+        "id": "grammar_present_continuous",
+        "title": "Present Continuous",
+        "description": "I am working right now",
+        "emoji": "🏃",
+        "sort_order": 4,
+        "theory": "## When do we use it?\nUse the Present Continuous (am / is / are + V-ing) for actions happening RIGHT NOW or AROUND now, temporary situations, and planned future arrangements.\n\n## How to form\nSubject + am / is / are + verb-ing\n• I am\n• You / We / They are\n• He / She / It is\n\n### Spelling of -ing\n• Most verbs: add -ing → work / working\n• Ending in -e (silent): drop -e → make / making\n• Short verb + consonant: double the consonant → run / running, sit / sitting\n• Ending in -ie: change to -y + ing → lie / lying\n\n## Negative & question\n• Negative: subject + am/is/are + not + V-ing\n• Question: Am / Is / Are + subject + V-ing …?\n\n## Time markers\nnow, right now, at the moment, today, this week, currently, Look!, Listen!\n\n## Examples\n> I am studying English now.\n> Look! It's raining.\n> She is working in Singapore this month.\n> Are you watching TV? — No, I'm not.\n\n## Common mistakes\n• ❌ I working now → ✅ I am working now.\n• ❌ He is run → ✅ He is running.\n• ❌ She is knowing the answer → ✅ She knows the answer. (state verbs don't take -ing)"
+    },
+    {
+        "id": "grammar_past_simple",
+        "title": "Past Simple",
+        "description": "I worked yesterday",
+        "emoji": "📅",
+        "sort_order": 5,
+        "theory": "## When do we use it?\nUse the Past Simple for finished actions in the past — with a clear past time or simply understood as completed.\n\n## How to form\n### Regular verbs: add -ed\n• work → worked, play → played, watch → watched\n• Ending in -e: just add -d → live → lived\n• Consonant + y: change to -ied → study → studied, try → tried\n• Short verb + consonant: double consonant + ed → stop → stopped\n\n### Irregular verbs (memorize)\n• go → went, eat → ate, see → saw, have → had, do → did, take → took, give → gave, come → came, get → got, make → made, say → said, find → found, buy → bought, think → thought\n\n## Be: was / were\n• I / He / She / It → was\n• You / We / They → were\n\n## Negative & question\n• Negative: subject + did not (didn't) + base verb\n• Question: Did + subject + base verb …?\n• With be: was/were + not, Was/Were + subject …?\n\n## Time markers\nyesterday, last week / month / year, two days ago, in 2010, when I was a child\n\n## Examples\n> I went to Hanoi last summer.\n> She didn't eat breakfast yesterday.\n> Did you call him? — Yes, I did.\n> They were at school on Monday.\n\n## Common mistakes\n• ❌ I didn't went → ✅ I didn't go. (after did/didn't use base form)\n• ❌ Did you saw him? → ✅ Did you see him?\n• ❌ He goed home → ✅ He went home."
+    },
+    {
+        "id": "grammar_past_continuous",
+        "title": "Past Continuous",
+        "description": "I was working at 8 PM",
+        "emoji": "⏳",
+        "sort_order": 6,
+        "theory": "## When do we use it?\nUse the Past Continuous (was / were + V-ing) for:\n• An action in progress at a specific moment in the past.\n• A background action interrupted by a shorter Past Simple action.\n• Two parallel actions happening at the same time.\n\n## How to form\nSubject + was / were + verb-ing\n• I / He / She / It → was + V-ing\n• You / We / They → were + V-ing\n\n## Negative & question\n• Negative: was / were + not + V-ing\n• Question: Was / Were + subject + V-ing …?\n\n## With Past Simple (key pattern)\nUse **while / as** + Past Continuous for the longer background action; **when** + Past Simple for the shorter event.\n• While I was reading, the phone rang.\n• When she arrived, we were having dinner.\n\n## Time markers\nat 8 PM yesterday, all morning, while, when, as, this time last week\n\n## Examples\n> I was sleeping at midnight.\n> They were playing tennis at 5 PM.\n> What were you doing when I called?\n> The sun was shining and the birds were singing.\n\n## Common mistakes\n• ❌ I was play → ✅ I was playing.\n• ❌ When she called, I cooked → ✅ When she called, I was cooking. (background)\n• ❌ We was working → ✅ We were working."
+    },
+    {
+        "id": "grammar_present_perfect",
+        "title": "Present Perfect",
+        "description": "I have worked here for 5 years",
+        "emoji": "🔗",
+        "sort_order": 7,
+        "theory": "## When do we use it?\nUse the Present Perfect (have / has + past participle) to CONNECT the past with NOW. Three main uses:\n1. Life experience (no specific time) — *I have visited Paris.*\n2. Recently completed action with present result — *She has lost her keys.*\n3. Unfinished action that started in the past and continues — *We have lived here for 10 years.*\n\n## How to form\nSubject + have / has + past participle (V3)\n• I / You / We / They → have\n• He / She / It → has\n\n### Past participle (V3) examples\n• Regular: worked, played, lived (= same as V2)\n• Irregular: gone, eaten, seen, had, done, taken, given, come, got/gotten, made, said, found, bought, thought, written, drunk\n\n## Negative & question\n• Negative: have/has + not (haven't / hasn't) + V3\n• Question: Have/Has + subject + V3 …?\n\n## Key words\never, never, already, yet, just, for + duration, since + point in time\n\n## Examples\n> I have already finished my homework.\n> She has just arrived.\n> Have you ever been to Japan? — No, I haven't.\n> We've known each other for ten years.\n> He hasn't called me since Monday.\n\n## Common mistakes\n• ❌ I have went → ✅ I have gone.\n• ❌ I have seen him yesterday → ✅ I saw him yesterday. (specific past time → Past Simple)\n• ❌ She lives here for 5 years → ✅ She has lived here for 5 years."
+    },
+    {
+        "id": "grammar_future_will",
+        "title": "Future with will",
+        "description": "I will work tomorrow",
+        "emoji": "🔮",
+        "sort_order": 8,
+        "theory": "## When do we use it?\nUse \"will\" + base verb for:\n• Predictions and beliefs about the future — *It will rain tomorrow.*\n• Decisions made at the moment of speaking — *I'll have the chicken, please.*\n• Promises, offers, and willingness — *I'll help you.*\n• Future facts — *I will be 30 next year.*\n\n## How to form\nSubject + will + base verb (same for all subjects)\n• Contracted: I'll, you'll, he'll, she'll, we'll, they'll\n• Negative: will not = won't\n• Question: Will + subject + base verb …?\n\n## Time markers\ntomorrow, next week / month / year, in 2030, soon, in a few minutes, one day, probably\n\n## With \"I think / I'm sure / probably\"\n> I think it will be sunny tomorrow.\n> She probably won't come.\n\n## Examples\n> I'll call you later.\n> They will arrive at 8 PM.\n> Don't worry, I won't tell anyone.\n> Will you marry me?\n\n## Common mistakes\n• ❌ I will to call you → ✅ I will call you. (no \"to\")\n• ❌ He will calls → ✅ He will call. (base form, no -s)\n• ❌ Will you to help me? → ✅ Will you help me?"
+    },
+    {
+        "id": "grammar_future_going_to",
+        "title": "Future with be going to",
+        "description": "I am going to work tomorrow",
+        "emoji": "🎯",
+        "sort_order": 9,
+        "theory": "## When do we use it?\nUse \"be going to\" + base verb for:\n• Plans and intentions decided BEFORE now — *I'm going to study tonight.*\n• Predictions based on present evidence — *Look at those clouds — it's going to rain.*\n\n## How to form\nSubject + am / is / are + going to + base verb\n• I am going to\n• You / We / They are going to\n• He / She / It is going to\n\n## Negative & question\n• Negative: am / is / are + not + going to\n• Question: Am / Is / Are + subject + going to …?\n\n## will vs. be going to (quick guide)\n• Spontaneous decision (right now) → *will*\n> The phone is ringing. I'll get it!\n• Plan made earlier → *be going to*\n> I'm going to visit my parents this weekend. (planned days ago)\n• Prediction with no evidence → *will*\n> I think Vietnam will win.\n• Prediction with evidence in front of you → *be going to*\n> She has no umbrella — she's going to get wet!\n\n## Examples\n> We're going to buy a new car.\n> Are you going to study tonight?\n> He isn't going to come to the meeting.\n> Look! The vase is going to fall!\n\n## Common mistakes\n• ❌ I going to go → ✅ I am going to go.\n• ❌ She is going to be travel → ✅ She is going to travel.\n• ❌ Are you go to study? → ✅ Are you going to study?"
+    },
+    {
+        "id": "grammar_comparatives_superlatives",
+        "title": "Comparatives & Superlatives",
+        "description": "bigger / the biggest",
+        "emoji": "📊",
+        "sort_order": 10,
+        "theory": "## When do we use them?\n• **Comparative** — compare TWO things: *Mai is taller than Linh.*\n• **Superlative** — compare ONE thing with all others: *Mai is the tallest in the class.*\n\n## How to form\n### Short adjectives (1 syllable)\n• Add -er / -est: tall → taller → the tallest\n• Ending in -e: just add -r / -st: nice → nicer → nicest\n• Consonant + y: change to -ier / -iest: happy → happier → the happiest\n• Short vowel + consonant: double consonant: big → bigger → the biggest\n\n### Long adjectives (2+ syllables)\n• Use more / the most: beautiful → more beautiful → the most beautiful\n• important → more important → the most important\n\n### Two syllables ending in -y → -ier / -iest\nbusy → busier → busiest, easy → easier → easiest\n\n### Irregular\ngood → better → the best\nbad → worse → the worst\nfar → farther / further → the farthest / furthest\nlittle → less → the least\nmuch / many → more → the most\n\n## Patterns\n• A is ___-er than B / A is more ___ than B\n• A is the ___-est (of / in …) / A is the most ___ (of / in …)\n• Use \"in\" with places: the tallest IN the class\n• Use \"of\" with groups / time: the best OF all, the hottest OF the year\n\n## Examples\n> Tokyo is bigger than Hanoi.\n> This is the most expensive phone in the shop.\n> She runs faster than I do.\n> Today is the hottest day of the year.\n\n## Common mistakes\n• ❌ more big → ✅ bigger\n• ❌ the most happiest → ✅ the happiest\n• ❌ taller that → ✅ taller than\n• ❌ He is gooder → ✅ He is better."
+    },
+    {
+        "id": "grammar_modals",
+        "title": "Modal verbs",
+        "description": "can / should / must / may",
+        "emoji": "💪",
+        "sort_order": 11,
+        "theory": "## What are modal verbs?\nModal verbs are helper verbs (can, could, should, must, may, might, would) that add meaning like ability, permission, advice, obligation, or possibility.\n\n## How to use\nSubject + modal + base verb (no \"to\", no -s, no -ing)\n• I can swim.\n• She must go.\n• He should rest.\n\n### Negative & question\n• Negative: modal + not (can't, shouldn't, mustn't, may not)\n• Question: modal + subject + base verb …?\n\n## Main modals & meanings\n### can / could\n• Ability — *I can speak English. She could swim at 5.*\n• Permission (informal) — *Can I come in?*\n• Possibility — *It can be cold here in winter.*\n\n### should\n• Advice — *You should see a doctor.*\n• Mild obligation — *We should be quiet in the library.*\n\n### must / have to\n• Strong obligation / rule — *You must wear a helmet.*\n• Logical certainty — *You haven't eaten. You must be hungry.*\n• mustn't = forbidden; don't have to = not necessary\n\n### may / might\n• Possibility (uncertain) — *It may rain. He might come.*\n• may = polite permission — *May I leave early?*\n\n### would\n• Polite request — *Would you help me?*\n• Hypothetical — *I would travel more if I had money.*\n\n## Examples\n> I can play the guitar.\n> You shouldn't smoke.\n> Students must arrive on time.\n> Could you open the window, please?\n\n## Common mistakes\n• ❌ He cans swim → ✅ He can swim. (no -s)\n• ❌ I must to go → ✅ I must go. (no \"to\")\n• ❌ She should goes → ✅ She should go."
+    },
+    {
+        "id": "grammar_question_words",
+        "title": "Question words (Wh-)",
+        "description": "what / where / when / why / how",
+        "emoji": "❓",
+        "sort_order": 12,
+        "theory": "## The Wh- family\nThe main question words are: **what, where, when, who, whose, which, why, how**.\n\n## What each one asks about\n• **What** — thing, action, idea: *What is your name?*\n• **Where** — place: *Where do you live?*\n• **When** — time: *When is your birthday?*\n• **Who** — person (subject / object): *Who is that?*\n• **Whose** — possession: *Whose car is this?*\n• **Which** — choice from a limited set: *Which color do you prefer, red or blue?*\n• **Why** — reason: *Why are you sad?*\n• **How** — manner, condition: *How are you?*\n\n## \"How\" combinations\n• **How much** — uncountable amount / price: *How much milk? How much is it?*\n• **How many** — countable quantity: *How many books?*\n• **How long** — duration: *How long does it take?*\n• **How often** — frequency: *How often do you exercise?*\n• **How old** — age: *How old are you?*\n• **How far** — distance: *How far is the station?*\n\n## Question structure\n• With \"be\": Wh- + be + subject (+ …)? → *Where are you?*\n• With other verbs: Wh- + do / does / did + subject + base verb? → *What do you eat?*\n• When Wh- is the subject, no auxiliary: *Who lives here? What happened?*\n\n## Examples\n> Where is the bathroom?\n> When did you arrive?\n> How many siblings do you have?\n> Why didn't you call me?\n> Whose phone is ringing?\n\n## Common mistakes\n• ❌ Where you live? → ✅ Where do you live?\n• ❌ How much books? → ✅ How many books? (countable)\n• ❌ Who do live here? → ✅ Who lives here? (Who = subject)"
+    },
+    {
+        "id": "grammar_countable_uncountable",
+        "title": "Countable vs Uncountable",
+        "description": "much / many / some / any",
+        "emoji": "🥛",
+        "sort_order": 13,
+        "theory": "## What's the difference?\n• **Countable** nouns can be counted: 1 book, 2 books · 1 apple, 5 apples. They have singular AND plural forms.\n• **Uncountable** nouns CANNOT be counted as individual items: water, music, advice, money, information. They have NO plural form and take a singular verb.\n\n## Common uncountable nouns\nfood / drink: water, milk, bread, rice, sugar, cheese\nabstract: information, advice, news, music, work, help, time, money\nsubstances: air, sand, gold, paper, hair (when general)\n\n> ⚠️ \"News\", \"advice\", \"information\", \"furniture\", \"luggage\" are uncountable in English even though they may be countable in Vietnamese.\n\n## a / an, some, any\n• **a / an** — only with singular countable: *a book, an apple* (NOT *a water*)\n• **some** — positive sentences (both): *I have some books. I want some water.*\n• **any** — negatives & questions (both): *I don't have any money. Do you have any sisters?*\n\n## much / many / a lot of\n• **much** — uncountable: *How much water? Not much time.*\n• **many** — plural countable: *How many friends? Too many cars.*\n• **a lot of** / **lots of** — both: *a lot of water, a lot of friends*\n\n## few / little\n• **a few** — small but enough (countable): *I have a few questions.*\n• **a little** — small but enough (uncountable): *I have a little money.*\n\n## Counting uncountables\nUse a \"unit\" word: a glass of water, a piece of advice, a slice of bread, two cups of coffee, a bottle of milk.\n\n## Examples\n> Can I have some water, please?\n> How many eggs do we need?\n> She doesn't have much free time.\n> I'd like a piece of cake.\n\n## Common mistakes\n• ❌ How much books? → ✅ How many books?\n• ❌ I need an advice → ✅ I need some advice / a piece of advice.\n• ❌ Many money → ✅ Much money / a lot of money.\n• ❌ He has many homeworks → ✅ He has a lot of homework. (uncountable, no plural)"
     }
 ]
