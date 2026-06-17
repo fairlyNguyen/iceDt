@@ -118,5 +118,581 @@
         "options": "Yes, very far|No, only about ten minutes|She doesn't know|Yes, an hour",
         "correct_index": 1,
         "sort_order": 3
+    },
+    {
+        "id": "q_mf_1",
+        "story_id": "story_my_family",
+        "prompt": "How many people are in the family?",
+        "options": "Two|Three|Four|Five",
+        "correct_index": 2,
+        "sort_order": 1
+    },
+    {
+        "id": "q_mf_2",
+        "story_id": "story_my_family",
+        "prompt": "What is the sister's name?",
+        "options": "Mia|Anna|Lily|Sara",
+        "correct_index": 0,
+        "sort_order": 2
+    },
+    {
+        "id": "q_mf_3",
+        "story_id": "story_my_family",
+        "prompt": "Where do they live?",
+        "options": "In a big house|In a small house|In a flat|In a castle",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_pd2_1",
+        "story_id": "story_pet_dog",
+        "prompt": "What is the dog's name?",
+        "options": "Rex|Max|Buddy|Spot",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_pd2_2",
+        "story_id": "story_pet_dog",
+        "prompt": "What color is Max?",
+        "options": "Black|Brown and white|Yellow|Gray",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_pd2_3",
+        "story_id": "story_pet_dog",
+        "prompt": "What does Max like to play with?",
+        "options": "A blue bone|A red ball|A toy car|A stick",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_mt_1",
+        "story_id": "story_my_toys",
+        "prompt": "How many dolls does the child have?",
+        "options": "One|Two|Three|Four",
+        "correct_index": 2,
+        "sort_order": 1
+    },
+    {
+        "id": "q_mt_2",
+        "story_id": "story_my_toys",
+        "prompt": "What color is the car?",
+        "options": "Blue|Red|Green|Yellow",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_mt_3",
+        "story_id": "story_my_toys",
+        "prompt": "What is the favorite toy's name?",
+        "options": "Mimi|Coco|Bobo|Lulu",
+        "correct_index": 2,
+        "sort_order": 3
+    },
+    {
+        "id": "q_sm_1",
+        "story_id": "story_supermarket",
+        "prompt": "When do they go to the supermarket?",
+        "options": "Sunday|Saturday|Friday|Monday",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_sm_2",
+        "story_id": "story_supermarket",
+        "prompt": "What do they need to buy?",
+        "options": "Milk, bread, apples, and eggs|Milk, fish, and rice|Cheese and meat|Soap and shampoo",
+        "correct_index": 0,
+        "sort_order": 2
+    },
+    {
+        "id": "q_sm_3",
+        "story_id": "story_supermarket",
+        "prompt": "Who pays at the counter?",
+        "options": "The child|Mom|Dad|The neighbor",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_sb_1",
+        "story_id": "story_school_bag",
+        "prompt": "What color is the school bag?",
+        "options": "Red|Blue|Green|Black",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_sb_2",
+        "story_id": "story_school_bag",
+        "prompt": "How many books are in the bag?",
+        "options": "Three|Four|Five|Six",
+        "correct_index": 2,
+        "sort_order": 2
+    },
+    {
+        "id": "q_sb_3",
+        "story_id": "story_school_bag",
+        "prompt": "What is in the pencil case?",
+        "options": "Coins and stickers|Pencils, eraser, and ruler|A book|A phone",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_cc_1",
+        "story_id": "story_colors_clothes",
+        "prompt": "What is the weather like?",
+        "options": "Hot|Cold|Rainy|Windy",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_cc_2",
+        "story_id": "story_colors_clothes",
+        "prompt": "What color is the narrator's sweater?",
+        "options": "Blue|Green|Red|White",
+        "correct_index": 2,
+        "sort_order": 2
+    },
+    {
+        "id": "q_cc_3",
+        "story_id": "story_colors_clothes",
+        "prompt": "What does the little brother wear?",
+        "options": "Blue jeans and a red shirt|A green shirt and yellow pants|Black shoes|A coat",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_bp_1",
+        "story_id": "story_birthday_party",
+        "prompt": "How old did the narrator turn?",
+        "options": "Eight|Nine|Ten|Eleven",
+        "correct_index": 2,
+        "sort_order": 1
+    },
+    {
+        "id": "q_bp_2",
+        "story_id": "story_birthday_party",
+        "prompt": "What flavor was the cake?",
+        "options": "Vanilla|Strawberry|Chocolate|Lemon",
+        "correct_index": 2,
+        "sort_order": 2
+    },
+    {
+        "id": "q_bp_3",
+        "story_id": "story_birthday_party",
+        "prompt": "What did the friends bring?",
+        "options": "Flowers|Presents|Food|Books",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_bp_4",
+        "story_id": "story_birthday_party",
+        "prompt": "What did the narrator do before blowing the candles?",
+        "options": "Sang a song|Made a wish|Cut the cake|Took a photo",
+        "correct_index": 1,
+        "sort_order": 4
+    },
+    {
+        "id": "q_mr_1",
+        "story_id": "story_morning_routine",
+        "prompt": "What time does the narrator wake up?",
+        "options": "6:00|6:30|7:00|7:30",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_mr_2",
+        "story_id": "story_morning_routine",
+        "prompt": "What does the narrator do first?",
+        "options": "Eat breakfast|Brush teeth and wash face|Get dressed|Pack bag",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_mr_3",
+        "story_id": "story_morning_routine",
+        "prompt": "What is for breakfast?",
+        "options": "Cereal and milk|Eggs, toast, and orange juice|Pancakes|Rice",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_mr_4",
+        "story_id": "story_morning_routine",
+        "prompt": "Who drives the narrator to school?",
+        "options": "Mom|Dad|Grandma|The bus driver",
+        "correct_index": 1,
+        "sort_order": 4
+    },
+    {
+        "id": "q_ad_1",
+        "story_id": "story_at_doctor",
+        "prompt": "What was wrong with the narrator?",
+        "options": "A headache|A bad cough|A broken arm|A stomachache",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_ad_2",
+        "story_id": "story_at_doctor",
+        "prompt": "Who took the narrator to the doctor?",
+        "options": "Dad|Mom|Grandma|Big sister",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_ad_3",
+        "story_id": "story_at_doctor",
+        "prompt": "What did the doctor say to do?",
+        "options": "Go to school|Drink hot tea and rest|Eat ice cream|Exercise",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_ad_4",
+        "story_id": "story_at_doctor",
+        "prompt": "How long until the narrator felt better?",
+        "options": "One day|Two days|Three days|A week",
+        "correct_index": 2,
+        "sort_order": 4
+    },
+    {
+        "id": "q_nf_1",
+        "story_id": "story_new_friend",
+        "prompt": "Where did the story happen?",
+        "options": "At home|At a new school|At the park|At a shop",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_nf_2",
+        "story_id": "story_new_friend",
+        "prompt": "What is the girl's name?",
+        "options": "Tina|Lina|Mia|Nina",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_nf_3",
+        "story_id": "story_new_friend",
+        "prompt": "When did Tom's family move?",
+        "options": "Yesterday|Last week|Last month|A year ago",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_nf_4",
+        "story_id": "story_new_friend",
+        "prompt": "What did Lina offer to do?",
+        "options": "Buy lunch|Show him around|Give him a book|Walk him home",
+        "correct_index": 1,
+        "sort_order": 4
+    },
+    {
+        "id": "q_cg_1",
+        "story_id": "story_call_grandma",
+        "prompt": "When does the narrator call grandma?",
+        "options": "Every Saturday morning|Every Sunday evening|Every Monday|Every weekend",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_cg_2",
+        "story_id": "story_call_grandma",
+        "prompt": "What grade did the narrator get in math?",
+        "options": "A B|A C|An A|A D",
+        "correct_index": 2,
+        "sort_order": 2
+    },
+    {
+        "id": "q_cg_3",
+        "story_id": "story_call_grandma",
+        "prompt": "How long do they talk?",
+        "options": "Ten minutes|Twenty minutes|Thirty minutes|One hour",
+        "correct_index": 2,
+        "sort_order": 3
+    },
+    {
+        "id": "q_cg_4",
+        "story_id": "story_call_grandma",
+        "prompt": "What does grandma always say at the end?",
+        "options": "Goodbye|See you soon|I love you, and I miss you|Take care",
+        "correct_index": 2,
+        "sort_order": 4
+    },
+    {
+        "id": "q_lh_1",
+        "story_id": "story_library_help",
+        "prompt": "What kind of book is the narrator looking for?",
+        "options": "History books|Animal books|Cooking books|Comic books",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_lh_2",
+        "story_id": "story_library_help",
+        "prompt": "Where are the animal books?",
+        "options": "First floor, section A|Second floor, section B|Third floor|Basement",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_lh_3",
+        "story_id": "story_library_help",
+        "prompt": "How many books can the narrator borrow?",
+        "options": "Two|Three|Four|Five",
+        "correct_index": 2,
+        "sort_order": 3
+    },
+    {
+        "id": "q_lh_4",
+        "story_id": "story_library_help",
+        "prompt": "How does the narrator feel at the end?",
+        "options": "Sad|Tired|Happy|Angry",
+        "correct_index": 2,
+        "sort_order": 4
+    },
+    {
+        "id": "q_bw_1",
+        "story_id": "story_beach_weekend",
+        "prompt": "How was the weather?",
+        "options": "Cold and rainy|Sunny and hot|Cloudy|Windy",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_bw_2",
+        "story_id": "story_beach_weekend",
+        "prompt": "What time did they arrive at the beach?",
+        "options": "8:00 AM|9:00 AM|10:00 AM|11:00 AM",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_bw_3",
+        "story_id": "story_beach_weekend",
+        "prompt": "What did they eat at noon?",
+        "options": "Pizza and juice|Sandwiches and watermelon|Rice and chicken|Salad",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_bw_4",
+        "story_id": "story_beach_weekend",
+        "prompt": "What did the sister do in the afternoon?",
+        "options": "Swim|Sleep|Build a sand castle|Read a book",
+        "correct_index": 2,
+        "sort_order": 4
+    },
+    {
+        "id": "q_bw_5",
+        "story_id": "story_beach_weekend",
+        "prompt": "What time did they go home?",
+        "options": "4 PM|5 PM|6 PM|7 PM",
+        "correct_index": 2,
+        "sort_order": 5
+    },
+    {
+        "id": "q_cm_1",
+        "story_id": "story_cooking_mom",
+        "prompt": "When does the narrator cook with mom?",
+        "options": "Sunny Sundays|Rainy Sundays|Saturday mornings|Friday nights",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_cm_2",
+        "story_id": "story_cooking_mom",
+        "prompt": "What are they making?",
+        "options": "Soup|Pasta with tomato sauce|Pizza|Rice",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_cm_3",
+        "story_id": "story_cooking_mom",
+        "prompt": "How long does the water take to boil?",
+        "options": "Five minutes|Ten minutes|Fifteen minutes|Twenty minutes",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_cm_4",
+        "story_id": "story_cooking_mom",
+        "prompt": "What does Mom cut?",
+        "options": "Carrots and potatoes|Onions and tomatoes|Cheese|Bread",
+        "correct_index": 1,
+        "sort_order": 4
+    },
+    {
+        "id": "q_cm_5",
+        "story_id": "story_cooking_mom",
+        "prompt": "Who eats the food?",
+        "options": "Only Mom and the narrator|Dad and brother|Grandparents|The neighbors",
+        "correct_index": 1,
+        "sort_order": 5
+    },
+    {
+        "id": "q_fm_1",
+        "story_id": "story_football_match",
+        "prompt": "When do they play football?",
+        "options": "Sunday morning|Saturday afternoon|Friday evening|Monday",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_fm_2",
+        "story_id": "story_football_match",
+        "prompt": "What color shirt does the narrator's team wear?",
+        "options": "Blue|Green|Red|Yellow",
+        "correct_index": 2,
+        "sort_order": 2
+    },
+    {
+        "id": "q_fm_3",
+        "story_id": "story_football_match",
+        "prompt": "How long does the match last?",
+        "options": "Sixty minutes|Seventy-five minutes|Ninety minutes|Two hours",
+        "correct_index": 2,
+        "sort_order": 3
+    },
+    {
+        "id": "q_fm_4",
+        "story_id": "story_football_match",
+        "prompt": "Who scored the third goal?",
+        "options": "The narrator|The coach|The captain|A friend",
+        "correct_index": 0,
+        "sort_order": 4
+    },
+    {
+        "id": "q_fm_5",
+        "story_id": "story_football_match",
+        "prompt": "What was the final score?",
+        "options": "2 to 1|3 to 1|3 to 2|4 to 1",
+        "correct_index": 1,
+        "sort_order": 5
+    },
+    {
+        "id": "q_tt_1",
+        "story_id": "story_train_ticket",
+        "prompt": "Where was the narrator going?",
+        "options": "Paris|London|Manchester|Edinburgh",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_tt_2",
+        "story_id": "story_train_ticket",
+        "prompt": "How long did the narrator wait in line?",
+        "options": "Five minutes|Ten minutes|Fifteen minutes|Half an hour",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_tt_3",
+        "story_id": "story_train_ticket",
+        "prompt": "What kind of ticket did the narrator buy?",
+        "options": "Single|Return|Monthly pass|Children's",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_tt_4",
+        "story_id": "story_train_ticket",
+        "prompt": "How much was the ticket?",
+        "options": "£15|£20|£25|£30",
+        "correct_index": 2,
+        "sort_order": 4
+    },
+    {
+        "id": "q_tt_5",
+        "story_id": "story_train_ticket",
+        "prompt": "What platform does the train leave from?",
+        "options": "Platform 2|Platform 4|Platform 6|Platform 8",
+        "correct_index": 2,
+        "sort_order": 5
+    },
+    {
+        "id": "q_po_1",
+        "story_id": "story_post_office",
+        "prompt": "Where is the narrator sending the package?",
+        "options": "Italy|France|Spain|Germany",
+        "correct_index": 2,
+        "sort_order": 1
+    },
+    {
+        "id": "q_po_2",
+        "story_id": "story_post_office",
+        "prompt": "Who is the package for?",
+        "options": "The narrator's brother|The narrator's cousin|The narrator's grandma|A friend",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_po_3",
+        "story_id": "story_post_office",
+        "prompt": "How much does the package weigh?",
+        "options": "One kilogram|Two kilograms|Three kilograms|Five kilograms",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_po_4",
+        "story_id": "story_post_office",
+        "prompt": "What shipping method did the narrator choose?",
+        "options": "Standard|Express|Overnight|Economy",
+        "correct_index": 1,
+        "sort_order": 4
+    },
+    {
+        "id": "q_po_5",
+        "story_id": "story_post_office",
+        "prompt": "How did the narrator pay?",
+        "options": "By card|In cash|By phone|By check",
+        "correct_index": 1,
+        "sort_order": 5
+    },
+    {
+        "id": "q_bh_1",
+        "story_id": "story_book_hotel",
+        "prompt": "Where are they going on holiday?",
+        "options": "Paris|Rome|Madrid|Lisbon",
+        "correct_index": 1,
+        "sort_order": 1
+    },
+    {
+        "id": "q_bh_2",
+        "story_id": "story_book_hotel",
+        "prompt": "What is the occasion?",
+        "options": "A birthday|Their anniversary|A wedding|A work trip",
+        "correct_index": 1,
+        "sort_order": 2
+    },
+    {
+        "id": "q_bh_3",
+        "story_id": "story_book_hotel",
+        "prompt": "How many nights are they staying?",
+        "options": "Two|Three|Four|A week",
+        "correct_index": 1,
+        "sort_order": 3
+    },
+    {
+        "id": "q_bh_4",
+        "story_id": "story_book_hotel",
+        "prompt": "How much does the room cost per night?",
+        "options": "€80|€100|€120|€150",
+        "correct_index": 1,
+        "sort_order": 4
+    },
+    {
+        "id": "q_bh_5",
+        "story_id": "story_book_hotel",
+        "prompt": "What is included in the price?",
+        "options": "Only breakfast|Breakfast and Wi-Fi|Dinner|Nothing extra",
+        "correct_index": 1,
+        "sort_order": 5
     }
 ]
