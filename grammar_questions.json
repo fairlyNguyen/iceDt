@@ -268,5 +268,905 @@
         "correct_index": 0,
         "explanation": "'In' for parts of the day.",
         "sort_order": 10
+    },
+    {
+        "id": "pc_1",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "I ___ a book right now.",
+        "options": "read|am reading|reads|reading",
+        "correct_index": 1,
+        "explanation": "Action happening at this moment → am + V-ing.",
+        "sort_order": 1
+    },
+    {
+        "id": "pc_2",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "Listen! Someone ___ at the door.",
+        "options": "knock|knocks|is knocking|knocked",
+        "correct_index": 2,
+        "explanation": "'Listen!' signals an action happening now.",
+        "sort_order": 2
+    },
+    {
+        "id": "pc_3",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "They ___ football in the park at the moment.",
+        "options": "play|plays|are playing|playing",
+        "correct_index": 2,
+        "explanation": "'At the moment' → present continuous with 'are'.",
+        "sort_order": 3
+    },
+    {
+        "id": "pc_4",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "___ you ___ TV now?",
+        "options": "Do / watch|Are / watching|Is / watch|Does / watching",
+        "correct_index": 1,
+        "explanation": "Question form: Are + subject + V-ing.",
+        "sort_order": 4
+    },
+    {
+        "id": "pc_5",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "He ___ a shower at the moment.",
+        "options": "is taking|takes|take|taking",
+        "correct_index": 0,
+        "explanation": "Third-person singular → is + V-ing.",
+        "sort_order": 5
+    },
+    {
+        "id": "pc_6",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "We ___ for the bus right now.",
+        "options": "wait|waits|are waiting|am waiting",
+        "correct_index": 2,
+        "explanation": "'We' takes 'are' + V-ing.",
+        "sort_order": 6
+    },
+    {
+        "id": "pc_7",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "The dog ___ in the garden.",
+        "options": "run|running|is running|are running",
+        "correct_index": 2,
+        "explanation": "Singular subject → 'is' + V-ing.",
+        "sort_order": 7
+    },
+    {
+        "id": "pc_8",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "I ___ Korean this year.",
+        "options": "learn|am learning|learns|learning",
+        "correct_index": 1,
+        "explanation": "Temporary situation around now → present continuous.",
+        "sort_order": 8
+    },
+    {
+        "id": "pc_9",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "She is ___ a beautiful dress today.",
+        "options": "wear|wears|wearing|wore",
+        "correct_index": 2,
+        "explanation": "After 'is' use the -ing form.",
+        "sort_order": 9
+    },
+    {
+        "id": "pc_10",
+        "topic_id": "grammar_present_continuous",
+        "prompt": "Look! The baby ___.",
+        "options": "sleep|sleeps|is sleeping|slept",
+        "correct_index": 2,
+        "explanation": "'Look!' signals an action right now.",
+        "sort_order": 10
+    },
+    {
+        "id": "pst_1",
+        "topic_id": "grammar_past_simple",
+        "prompt": "I ___ to the cinema last night.",
+        "options": "go|goes|went|going",
+        "correct_index": 2,
+        "explanation": "Past time 'last night' → past simple. Irregular: go → went.",
+        "sort_order": 1
+    },
+    {
+        "id": "pst_2",
+        "topic_id": "grammar_past_simple",
+        "prompt": "She ___ a delicious cake yesterday.",
+        "options": "make|makes|made|making",
+        "correct_index": 2,
+        "explanation": "Irregular past: make → made.",
+        "sort_order": 2
+    },
+    {
+        "id": "pst_3",
+        "topic_id": "grammar_past_simple",
+        "prompt": "They ___ at home last Sunday.",
+        "options": "is|are|was|were",
+        "correct_index": 3,
+        "explanation": "Plural subject 'they' → 'were'.",
+        "sort_order": 3
+    },
+    {
+        "id": "pst_4",
+        "topic_id": "grammar_past_simple",
+        "prompt": "___ you ___ the news this morning?",
+        "options": "Do / hear|Did / hear|Did / heard|Are / hearing",
+        "correct_index": 1,
+        "explanation": "Past question: Did + subject + base verb.",
+        "sort_order": 4
+    },
+    {
+        "id": "pst_5",
+        "topic_id": "grammar_past_simple",
+        "prompt": "He ___ his homework two hours ago.",
+        "options": "finish|finished|finishes|was finish",
+        "correct_index": 1,
+        "explanation": "'Two hours ago' → past simple, regular -ed.",
+        "sort_order": 5
+    },
+    {
+        "id": "pst_6",
+        "topic_id": "grammar_past_simple",
+        "prompt": "We ___ TV all evening.",
+        "options": "watched|watch|watches|were watch",
+        "correct_index": 0,
+        "explanation": "Completed past action → past simple 'watched'.",
+        "sort_order": 6
+    },
+    {
+        "id": "pst_7",
+        "topic_id": "grammar_past_simple",
+        "prompt": "I ___ very tired after the trip.",
+        "options": "am|were|was|did",
+        "correct_index": 2,
+        "explanation": "'I' in the past takes 'was'.",
+        "sort_order": 7
+    },
+    {
+        "id": "pst_8",
+        "topic_id": "grammar_past_simple",
+        "prompt": "___ they ___ at the party?",
+        "options": "Did / dance|Did / danced|Was / dance|Were / danced",
+        "correct_index": 0,
+        "explanation": "After Did + subject, use the base verb.",
+        "sort_order": 8
+    },
+    {
+        "id": "pst_9",
+        "topic_id": "grammar_past_simple",
+        "prompt": "The teacher ___ angry yesterday.",
+        "options": "didn't|wasn't|isn't|weren't",
+        "correct_index": 1,
+        "explanation": "Singular subject + past → 'wasn't'.",
+        "sort_order": 9
+    },
+    {
+        "id": "pst_10",
+        "topic_id": "grammar_past_simple",
+        "prompt": "My brother ___ a new bike last week.",
+        "options": "buy|buys|bought|buyed",
+        "correct_index": 2,
+        "explanation": "Irregular past: buy → bought.",
+        "sort_order": 10
+    },
+    {
+        "id": "pstc_1",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "I ___ TV when you called.",
+        "options": "watch|watched|was watching|am watching",
+        "correct_index": 2,
+        "explanation": "Background action interrupted by 'called' → was + V-ing.",
+        "sort_order": 1
+    },
+    {
+        "id": "pstc_2",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "They ___ football all afternoon yesterday.",
+        "options": "played|were playing|are playing|play",
+        "correct_index": 1,
+        "explanation": "Duration ('all afternoon') → past continuous.",
+        "sort_order": 2
+    },
+    {
+        "id": "pstc_3",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "While she ___, the phone rang.",
+        "options": "sleeps|slept|was sleeping|is sleeping",
+        "correct_index": 2,
+        "explanation": "After 'while' use past continuous for the longer action.",
+        "sort_order": 3
+    },
+    {
+        "id": "pstc_4",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "We ___ dinner at 7 PM yesterday.",
+        "options": "had|were having|are having|have",
+        "correct_index": 1,
+        "explanation": "Action in progress at a specific past time.",
+        "sort_order": 4
+    },
+    {
+        "id": "pstc_5",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "What ___ you ___ at 9 last night?",
+        "options": "did / do|were / doing|are / doing|was / do",
+        "correct_index": 1,
+        "explanation": "Past continuous question: Were + subject + V-ing.",
+        "sort_order": 5
+    },
+    {
+        "id": "pstc_6",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "He ___ in the garden when it started to rain.",
+        "options": "works|was working|worked|is working",
+        "correct_index": 1,
+        "explanation": "Background action interrupted by a sudden event.",
+        "sort_order": 6
+    },
+    {
+        "id": "pstc_7",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "The students ___ when the teacher walked in.",
+        "options": "talked|were talking|talk|are talking",
+        "correct_index": 1,
+        "explanation": "Plural subject + background action → were + V-ing.",
+        "sort_order": 7
+    },
+    {
+        "id": "pstc_8",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "I ___ a book while my brother ___ music.",
+        "options": "read / listened|was reading / was listening|am reading / listens|read / was listening",
+        "correct_index": 1,
+        "explanation": "Two parallel past actions → both past continuous.",
+        "sort_order": 8
+    },
+    {
+        "id": "pstc_9",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "___ it ___ when you left home?",
+        "options": "Did / rain|Was / raining|Is / rain|Were / rain",
+        "correct_index": 1,
+        "explanation": "Singular 'it' + ongoing past action → Was + V-ing.",
+        "sort_order": 9
+    },
+    {
+        "id": "pstc_10",
+        "topic_id": "grammar_past_continuous",
+        "prompt": "She ___ for the bus at 8 AM.",
+        "options": "waited|was waiting|waits|is waiting",
+        "correct_index": 1,
+        "explanation": "Action in progress at a specific past time.",
+        "sort_order": 10
+    },
+    {
+        "id": "pp_1",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "I ___ already ___ lunch.",
+        "options": "have / had|have / have|has / had|am / having",
+        "correct_index": 0,
+        "explanation": "Present perfect: have + V3 (had = past participle of 'have').",
+        "sort_order": 1
+    },
+    {
+        "id": "pp_2",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "___ you ever ___ to London?",
+        "options": "Did / be|Have / been|Are / been|Did / been",
+        "correct_index": 1,
+        "explanation": "'Ever' + experience → present perfect question.",
+        "sort_order": 2
+    },
+    {
+        "id": "pp_3",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "She ___ him since 2020.",
+        "options": "knows|knew|has known|is knowing",
+        "correct_index": 2,
+        "explanation": "'Since' + unfinished situation → present perfect.",
+        "sort_order": 3
+    },
+    {
+        "id": "pp_4",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "They ___ their work yet.",
+        "options": "didn't finish|haven't finished|don't finish|aren't finishing",
+        "correct_index": 1,
+        "explanation": "'Yet' is a present perfect marker (negative / question).",
+        "sort_order": 4
+    },
+    {
+        "id": "pp_5",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "We ___ here for three years.",
+        "options": "live|lived|have lived|are living",
+        "correct_index": 2,
+        "explanation": "'For + duration' connecting past to now → present perfect.",
+        "sort_order": 5
+    },
+    {
+        "id": "pp_6",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "He ___ just ___ home.",
+        "options": "has / arrived|have / arrived|did / arrive|is / arriving",
+        "correct_index": 0,
+        "explanation": "'Just' + recent action → present perfect (he → has).",
+        "sort_order": 6
+    },
+    {
+        "id": "pp_7",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "I ___ that movie three times.",
+        "options": "see|saw|have seen|am seeing",
+        "correct_index": 2,
+        "explanation": "Life experience, no specific time → present perfect.",
+        "sort_order": 7
+    },
+    {
+        "id": "pp_8",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "___ she ___ her homework?",
+        "options": "Did / done|Has / done|Have / done|Is / doing",
+        "correct_index": 1,
+        "explanation": "Third-person singular question: Has + subject + V3.",
+        "sort_order": 8
+    },
+    {
+        "id": "pp_9",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "The kids ___ their toys everywhere.",
+        "options": "left|have left|leaves|are leaving",
+        "correct_index": 1,
+        "explanation": "Result visible now → present perfect.",
+        "sort_order": 9
+    },
+    {
+        "id": "pp_10",
+        "topic_id": "grammar_present_perfect",
+        "prompt": "My mom ___ never ___ sushi.",
+        "options": "has / eaten|have / eaten|did / eat|is / eating",
+        "correct_index": 0,
+        "explanation": "'Never' + life experience → present perfect (she → has).",
+        "sort_order": 10
+    },
+    {
+        "id": "fw_1",
+        "topic_id": "grammar_future_will",
+        "prompt": "I think it ___ tomorrow.",
+        "options": "rain|will rain|rains|is raining",
+        "correct_index": 1,
+        "explanation": "Prediction with 'I think' → will + base verb.",
+        "sort_order": 1
+    },
+    {
+        "id": "fw_2",
+        "topic_id": "grammar_future_will",
+        "prompt": "Don't worry, I ___ you.",
+        "options": "help|helps|will help|am helping",
+        "correct_index": 2,
+        "explanation": "Offer to help right now → will.",
+        "sort_order": 2
+    },
+    {
+        "id": "fw_3",
+        "topic_id": "grammar_future_will",
+        "prompt": "___ you ___ to the party tonight?",
+        "options": "Will / go|Will / going|Do / go|Are / going",
+        "correct_index": 0,
+        "explanation": "Will + subject + base verb.",
+        "sort_order": 3
+    },
+    {
+        "id": "fw_4",
+        "topic_id": "grammar_future_will",
+        "prompt": "She ___ 25 next month.",
+        "options": "is|will be|will is|is going",
+        "correct_index": 1,
+        "explanation": "Future fact → will + be.",
+        "sort_order": 4
+    },
+    {
+        "id": "fw_5",
+        "topic_id": "grammar_future_will",
+        "prompt": "I'm thirsty. I ___ some water.",
+        "options": "drink|drinks|will drink|am drinking",
+        "correct_index": 2,
+        "explanation": "Decision at the moment of speaking → will.",
+        "sort_order": 5
+    },
+    {
+        "id": "fw_6",
+        "topic_id": "grammar_future_will",
+        "prompt": "They probably ___ on time.",
+        "options": "aren't|won't be|don't be|will not be on",
+        "correct_index": 1,
+        "explanation": "Negative future prediction: won't + base verb.",
+        "sort_order": 6
+    },
+    {
+        "id": "fw_7",
+        "topic_id": "grammar_future_will",
+        "prompt": "We ___ visit grandma next weekend.",
+        "options": "will|are|do|going",
+        "correct_index": 0,
+        "explanation": "Future plan/intention with will + base verb.",
+        "sort_order": 7
+    },
+    {
+        "id": "fw_8",
+        "topic_id": "grammar_future_will",
+        "prompt": "___ it ___ cold in December?",
+        "options": "Will / be|Will / is|Does / be|Is / being",
+        "correct_index": 0,
+        "explanation": "Future question: Will + subject + base verb.",
+        "sort_order": 8
+    },
+    {
+        "id": "fw_9",
+        "topic_id": "grammar_future_will",
+        "prompt": "I promise I ___ late again.",
+        "options": "will be|won't be|am not|don't be",
+        "correct_index": 1,
+        "explanation": "Promise not to do something → won't.",
+        "sort_order": 9
+    },
+    {
+        "id": "fw_10",
+        "topic_id": "grammar_future_will",
+        "prompt": "He ___ in the next election.",
+        "options": "is winning|wins|will win|won",
+        "correct_index": 2,
+        "explanation": "Prediction about the future → will + base verb.",
+        "sort_order": 10
+    },
+    {
+        "id": "fgt_1",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "I ___ a movie tonight.",
+        "options": "watch|am watching|am going to watch|watches",
+        "correct_index": 2,
+        "explanation": "Plan decided before now → be going to.",
+        "sort_order": 1
+    },
+    {
+        "id": "fgt_2",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "Look at the sky! It ___ rain.",
+        "options": "will|going to|is going to|is going",
+        "correct_index": 2,
+        "explanation": "Prediction with visible evidence → is going to.",
+        "sort_order": 2
+    },
+    {
+        "id": "fgt_3",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "They ___ next year.",
+        "options": "are going to marry|will married|going to married|are go to marry",
+        "correct_index": 0,
+        "explanation": "Plural plan: are going to + base verb.",
+        "sort_order": 3
+    },
+    {
+        "id": "fgt_4",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "___ you ___ to study tonight?",
+        "options": "Will / going|Are / going|Do / going|Is / going",
+        "correct_index": 1,
+        "explanation": "Question form: Are + subject + going to.",
+        "sort_order": 4
+    },
+    {
+        "id": "fgt_5",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "We ___ a party next Saturday.",
+        "options": "have|are having|are going to have|will having",
+        "correct_index": 2,
+        "explanation": "Plan made earlier → be going to.",
+        "sort_order": 5
+    },
+    {
+        "id": "fgt_6",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "She ___ a doctor when she grows up.",
+        "options": "is going to be|is going to|going to be|will being",
+        "correct_index": 0,
+        "explanation": "Future intention: is going to + base verb (be).",
+        "sort_order": 6
+    },
+    {
+        "id": "fgt_7",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "Be careful! You ___.",
+        "options": "fall|are going to fall|will going to fall|going fall",
+        "correct_index": 1,
+        "explanation": "Prediction with visible evidence → are going to.",
+        "sort_order": 7
+    },
+    {
+        "id": "fgt_8",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "He ___ his car this weekend.",
+        "options": "sells|going to sell|is going to sell|will sells",
+        "correct_index": 2,
+        "explanation": "Planned action: is going to + base verb.",
+        "sort_order": 8
+    },
+    {
+        "id": "fgt_9",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "I'm not feeling well. I think I ___ sick.",
+        "options": "am going to be|will being|going to be|am being",
+        "correct_index": 0,
+        "explanation": "Prediction based on present evidence → going to.",
+        "sort_order": 9
+    },
+    {
+        "id": "fgt_10",
+        "topic_id": "grammar_future_going_to",
+        "prompt": "___ they ___ a new house?",
+        "options": "Will / buying|Are / going to buy|Are / buy|Going / buy",
+        "correct_index": 1,
+        "explanation": "Question form: Are + subject + going to + base verb.",
+        "sort_order": 10
+    },
+    {
+        "id": "cs_1",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "My brother is ___ than me.",
+        "options": "tall|taller|tallest|more taller",
+        "correct_index": 1,
+        "explanation": "Short adjective + than → -er.",
+        "sort_order": 1
+    },
+    {
+        "id": "cs_2",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "This is ___ book I have ever read.",
+        "options": "good|better|the best|best",
+        "correct_index": 2,
+        "explanation": "Irregular superlative: good → the best.",
+        "sort_order": 2
+    },
+    {
+        "id": "cs_3",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "Hanoi is ___ than Da Nang.",
+        "options": "bigger|biggest|more bigger|the bigger",
+        "correct_index": 0,
+        "explanation": "Short adjective: big → bigger (double consonant).",
+        "sort_order": 3
+    },
+    {
+        "id": "cs_4",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "She is the ___ student in the class.",
+        "options": "smart|smarter|smartest|more smart",
+        "correct_index": 2,
+        "explanation": "Superlative of short adjective: smart → the smartest.",
+        "sort_order": 4
+    },
+    {
+        "id": "cs_5",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "Today is ___ than yesterday.",
+        "options": "hot|hotter|hottest|more hot",
+        "correct_index": 1,
+        "explanation": "Short adjective + than → -er (double consonant).",
+        "sort_order": 5
+    },
+    {
+        "id": "cs_6",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "This bag is ___ than that one.",
+        "options": "more expensive|expensiver|expensive|most expensive",
+        "correct_index": 0,
+        "explanation": "Long adjective comparative: more + adj.",
+        "sort_order": 6
+    },
+    {
+        "id": "cs_7",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "Of all the boys, Tom is ___.",
+        "options": "the tallest|tallest|taller|the more tall",
+        "correct_index": 0,
+        "explanation": "Superlative needs 'the'. Short adjective → the tallest.",
+        "sort_order": 7
+    },
+    {
+        "id": "cs_8",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "My grade is ___ than last semester. I have to study more.",
+        "options": "bad|worse|the worst|badder",
+        "correct_index": 1,
+        "explanation": "Irregular comparative: bad → worse.",
+        "sort_order": 8
+    },
+    {
+        "id": "cs_9",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "Math is ___ subject for me.",
+        "options": "the difficult|more difficult|the most difficult|most difficult",
+        "correct_index": 2,
+        "explanation": "Long adjective superlative: the most + adj.",
+        "sort_order": 9
+    },
+    {
+        "id": "cs_10",
+        "topic_id": "grammar_comparatives_superlatives",
+        "prompt": "Linh is ___ girl in the class.",
+        "options": "prettier|prettiest|the prettiest|the more pretty",
+        "correct_index": 2,
+        "explanation": "Adjective ending in -y → -iest, plus 'the'.",
+        "sort_order": 10
+    },
+    {
+        "id": "mv_1",
+        "topic_id": "grammar_modals",
+        "prompt": "I ___ swim very well.",
+        "options": "can|cans|am can|to can",
+        "correct_index": 0,
+        "explanation": "Ability → can. No -s for any subject.",
+        "sort_order": 1
+    },
+    {
+        "id": "mv_2",
+        "topic_id": "grammar_modals",
+        "prompt": "You ___ smoke in the hospital. It's against the rules.",
+        "options": "shouldn't|mustn't|don't|aren't",
+        "correct_index": 1,
+        "explanation": "Forbidden by rule → mustn't (stronger than 'shouldn't').",
+        "sort_order": 2
+    },
+    {
+        "id": "mv_3",
+        "topic_id": "grammar_modals",
+        "prompt": "___ you help me with my homework?",
+        "options": "Could|Cans|Do|Are",
+        "correct_index": 0,
+        "explanation": "Polite request → Could + subject + base verb.",
+        "sort_order": 3
+    },
+    {
+        "id": "mv_4",
+        "topic_id": "grammar_modals",
+        "prompt": "It's late. You ___ go home.",
+        "options": "must to|should|should to|musts",
+        "correct_index": 1,
+        "explanation": "Advice → should + base verb (no 'to').",
+        "sort_order": 4
+    },
+    {
+        "id": "mv_5",
+        "topic_id": "grammar_modals",
+        "prompt": "He ___ be tired — he worked all night.",
+        "options": "can|might|must|may not",
+        "correct_index": 2,
+        "explanation": "Logical certainty → must.",
+        "sort_order": 5
+    },
+    {
+        "id": "mv_6",
+        "topic_id": "grammar_modals",
+        "prompt": "You ___ wear a uniform at this school.",
+        "options": "have|must|shoulds|can to",
+        "correct_index": 1,
+        "explanation": "Strong rule / obligation → must.",
+        "sort_order": 6
+    },
+    {
+        "id": "mv_7",
+        "topic_id": "grammar_modals",
+        "prompt": "I ___ run fast when I was young.",
+        "options": "can|could|cans|am can",
+        "correct_index": 1,
+        "explanation": "Past ability → could.",
+        "sort_order": 7
+    },
+    {
+        "id": "mv_8",
+        "topic_id": "grammar_modals",
+        "prompt": "___ I leave the table?",
+        "options": "May|Must|Do|Am",
+        "correct_index": 0,
+        "explanation": "Polite permission → May + subject + base verb.",
+        "sort_order": 8
+    },
+    {
+        "id": "mv_9",
+        "topic_id": "grammar_modals",
+        "prompt": "We ___ make noise — the baby is sleeping.",
+        "options": "shouldn't|don't|aren't|musts",
+        "correct_index": 0,
+        "explanation": "Advice not to do something → shouldn't.",
+        "sort_order": 9
+    },
+    {
+        "id": "mv_10",
+        "topic_id": "grammar_modals",
+        "prompt": "It ___ rain later. Take an umbrella just in case.",
+        "options": "must|might|musts|cans",
+        "correct_index": 1,
+        "explanation": "Uncertain possibility → might.",
+        "sort_order": 10
+    },
+    {
+        "id": "qw_1",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ is your name?",
+        "options": "What|Where|Who|How",
+        "correct_index": 0,
+        "explanation": "Asking for a thing/identity → What.",
+        "sort_order": 1
+    },
+    {
+        "id": "qw_2",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ do you live? — In Hanoi.",
+        "options": "What|Where|When|Why",
+        "correct_index": 1,
+        "explanation": "Asking about place → Where.",
+        "sort_order": 2
+    },
+    {
+        "id": "qw_3",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ books do you have? — About 50.",
+        "options": "How much|How many|How long|How old",
+        "correct_index": 1,
+        "explanation": "'Books' is countable → How many.",
+        "sort_order": 3
+    },
+    {
+        "id": "qw_4",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ are you crying? — Because I'm sad.",
+        "options": "When|Where|Why|How",
+        "correct_index": 2,
+        "explanation": "Asking for a reason → Why.",
+        "sort_order": 4
+    },
+    {
+        "id": "qw_5",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ is this bag? — It's mine.",
+        "options": "Who|Whose|What|Which",
+        "correct_index": 1,
+        "explanation": "Asking about owner → Whose.",
+        "sort_order": 5
+    },
+    {
+        "id": "qw_6",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ does the movie start? — At 8 PM.",
+        "options": "What|Where|When|How",
+        "correct_index": 2,
+        "explanation": "Asking about time → When.",
+        "sort_order": 6
+    },
+    {
+        "id": "qw_7",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ is the weather like today?",
+        "options": "What|Where|How|Why",
+        "correct_index": 0,
+        "explanation": "Set phrase: 'What is … like?' asks for description.",
+        "sort_order": 7
+    },
+    {
+        "id": "qw_8",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ old are you? — I'm 25.",
+        "options": "How|What|Where|When",
+        "correct_index": 0,
+        "explanation": "Age → How old.",
+        "sort_order": 8
+    },
+    {
+        "id": "qw_9",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ shirt do you prefer, the red or the blue one?",
+        "options": "What|Where|Which|How",
+        "correct_index": 2,
+        "explanation": "Choice from a limited set → Which.",
+        "sort_order": 9
+    },
+    {
+        "id": "qw_10",
+        "topic_id": "grammar_question_words",
+        "prompt": "___ teaches you English? — Mr. Smith.",
+        "options": "Who|What|Whose|Where",
+        "correct_index": 0,
+        "explanation": "Asking about a person (subject) → Who.",
+        "sort_order": 10
+    },
+    {
+        "id": "cu_1",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "How ___ sugar do you want in your coffee?",
+        "options": "many|much|few|a few",
+        "correct_index": 1,
+        "explanation": "'Sugar' is uncountable → much.",
+        "sort_order": 1
+    },
+    {
+        "id": "cu_2",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "There aren't ___ apples in the fridge.",
+        "options": "much|many|a little|a few",
+        "correct_index": 1,
+        "explanation": "'Apples' is plural countable → many.",
+        "sort_order": 2
+    },
+    {
+        "id": "cu_3",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "Would you like ___ tea?",
+        "options": "any|many|some|few",
+        "correct_index": 2,
+        "explanation": "Polite offer → some (not 'any').",
+        "sort_order": 3
+    },
+    {
+        "id": "cu_4",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "I need ___ information about this topic.",
+        "options": "many|an|some|few",
+        "correct_index": 2,
+        "explanation": "'Information' is uncountable → some.",
+        "sort_order": 4
+    },
+    {
+        "id": "cu_5",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "She has ___ friends in this city.",
+        "options": "much|many|a little|any",
+        "correct_index": 1,
+        "explanation": "'Friends' is plural countable → many.",
+        "sort_order": 5
+    },
+    {
+        "id": "cu_6",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "Can I have ___ piece of cake, please?",
+        "options": "a|some|any|many",
+        "correct_index": 0,
+        "explanation": "'Piece' is singular countable → a.",
+        "sort_order": 6
+    },
+    {
+        "id": "cu_7",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "There is ___ milk left in the bottle.",
+        "options": "few|many|a little|a few",
+        "correct_index": 2,
+        "explanation": "'Milk' is uncountable, small amount → a little.",
+        "sort_order": 7
+    },
+    {
+        "id": "cu_8",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "___ people came to the party.",
+        "options": "Much|A little|Many|Any",
+        "correct_index": 2,
+        "explanation": "'People' is plural countable → Many.",
+        "sort_order": 8
+    },
+    {
+        "id": "cu_9",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "We don't have ___ time. Hurry up!",
+        "options": "many|much|few|a few",
+        "correct_index": 1,
+        "explanation": "'Time' is uncountable → much.",
+        "sort_order": 9
+    },
+    {
+        "id": "cu_10",
+        "topic_id": "grammar_countable_uncountable",
+        "prompt": "He gave me a useful ___ of advice.",
+        "options": "piece|cup|slice|bottle",
+        "correct_index": 0,
+        "explanation": "Counting uncountable 'advice' → a piece of advice.",
+        "sort_order": 10
     }
 ]
