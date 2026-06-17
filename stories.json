@@ -38,5 +38,149 @@
         "content": "Anna is in a new city. She wants to find the train station.\nShe sees a kind man. \"Excuse me,\" she says. \"Where is the station?\"\n\"Walk straight ahead,\" he answers, \"then turn left at the bank.\"\n\"Is it far?\" Anna asks. \"No, it is near. About ten minutes.\"\nAnna says \"Thank you!\" and walks happily to the station.",
         "level_ordinal": 6,
         "sort_order": 5
+    },
+    {
+        "id": "story_my_family",
+        "title": "My Family",
+        "emoji": "👨‍👩‍👧",
+        "content": "This is my family. I have a mom, a dad, and a little sister.\nMy mom is kind. My dad is tall.\nMy sister is small. Her name is Mia.\nWe live in a small house. I love my family.",
+        "level_ordinal": 1,
+        "sort_order": 6
+    },
+    {
+        "id": "story_pet_dog",
+        "title": "My Pet Dog",
+        "emoji": "🐶",
+        "content": "I have a pet dog. His name is Max.\nMax is brown and white. He is small but fast.\nMax likes to play with a red ball.\nEvery day, I give Max food and water.\nMax is my best friend.",
+        "level_ordinal": 1,
+        "sort_order": 7
+    },
+    {
+        "id": "story_my_toys",
+        "title": "My Toys",
+        "emoji": "🧸",
+        "content": "I have many toys in my room. I have a teddy bear, a red car, and three dolls.\nThe teddy bear is big and soft. The car is fast.\nMy favorite toy is the teddy bear. His name is Bobo.\nAt night, I sleep with Bobo.",
+        "level_ordinal": 1,
+        "sort_order": 8
+    },
+    {
+        "id": "story_supermarket",
+        "title": "At the Supermarket",
+        "emoji": "🛒",
+        "content": "On Saturday, Mom and I go to the supermarket.\nWe take a big cart. We need milk, bread, apples, and eggs.\nI see many people. The shop is big and bright.\nMom pays at the counter. I help carry the bags.\nWe go home with full bags of food.",
+        "level_ordinal": 2,
+        "sort_order": 9
+    },
+    {
+        "id": "story_school_bag",
+        "title": "My School Bag",
+        "emoji": "🎒",
+        "content": "My school bag is blue. It has many things inside.\nThere are five books, two pens, and a yellow pencil case.\nIn the pencil case, I have pencils, an eraser, and a ruler.\nI also have a water bottle and a snack.\nMy bag is heavy, but I like it.",
+        "level_ordinal": 2,
+        "sort_order": 10
+    },
+    {
+        "id": "story_colors_clothes",
+        "title": "Colors and Clothes",
+        "emoji": "👕",
+        "content": "Today is cold. I open my closet to choose clothes.\nI wear a red sweater and blue jeans.\nMy white socks are warm. My black shoes are new.\nMy little brother wears a green shirt and yellow pants.\nWe look funny but warm.",
+        "level_ordinal": 2,
+        "sort_order": 11
+    },
+    {
+        "id": "story_birthday_party",
+        "title": "Birthday Party",
+        "emoji": "🎂",
+        "content": "Yesterday was my birthday. I turned ten years old.\nMy parents made a big chocolate cake with ten candles.\nMy friends came to my house with presents.\nWe played games, ate cake, and danced.\nBefore blowing the candles, I made a wish.\nIt was the best day of the year.",
+        "level_ordinal": 3,
+        "sort_order": 12
+    },
+    {
+        "id": "story_morning_routine",
+        "title": "Morning Routine",
+        "emoji": "☀️",
+        "content": "Every morning, I wake up at six thirty.\nFirst, I brush my teeth and wash my face.\nThen I eat breakfast — usually eggs, toast, and orange juice.\nAt seven, I put on my uniform and pack my bag.\nMy dad drives me to school at seven fifteen.\nI like my morning routine. It makes me feel ready.",
+        "level_ordinal": 3,
+        "sort_order": 13
+    },
+    {
+        "id": "story_at_doctor",
+        "title": "At the Doctor",
+        "emoji": "🩺",
+        "content": "Last week, I had a bad cough. My mom took me to the doctor.\nThe doctor's name is Doctor Lee. She is friendly and kind.\nShe looked at my throat and listened to my chest.\n\"You have a small cold,\" she said. \"Drink hot tea and rest.\"\nShe gave me some medicine. After three days, I felt better.",
+        "level_ordinal": 3,
+        "sort_order": 14
+    },
+    {
+        "id": "story_new_friend",
+        "title": "A New Friend",
+        "emoji": "👋",
+        "content": "On my first day at the new school, I sat alone.\nA girl with curly hair smiled at me. \"Hi! I'm Lina,\" she said.\n\"Hello, I'm Tom. Nice to meet you,\" I answered.\n\"Are you new here?\" Lina asked.\n\"Yes, my family just moved here last week.\"\n\"Don't worry. I'll show you around,\" she said.\nFrom that day, Lina became my best friend.",
+        "level_ordinal": 4,
+        "sort_order": 15
+    },
+    {
+        "id": "story_call_grandma",
+        "title": "Phone Call with Grandma",
+        "emoji": "📞",
+        "content": "Every Sunday evening, I call my grandma.\n\"Hello, Grandma! How are you?\" I ask.\n\"I'm fine, my dear. How is school?\" she answers.\n\"School is good. I got an A in math!\"\n\"Wonderful! I'm so proud of you.\"\nWe talk for thirty minutes about her garden and my friends.\nBefore I hang up, she always says, \"I love you, and I miss you.\"",
+        "level_ordinal": 4,
+        "sort_order": 16
+    },
+    {
+        "id": "story_library_help",
+        "title": "Help at the Library",
+        "emoji": "📚",
+        "content": "I went to the library to find a book about animals.\nI couldn't find it on the shelf, so I asked the librarian.\n\"Excuse me, where are the animal books?\" I asked politely.\n\"They are on the second floor, in section B,\" she said.\n\"Thank you! Can I borrow two books today?\"\n\"Yes, you can borrow up to four books. Here is your card.\"\nI was very happy and read all afternoon.",
+        "level_ordinal": 4,
+        "sort_order": 17
+    },
+    {
+        "id": "story_beach_weekend",
+        "title": "Weekend at the Beach",
+        "emoji": "🏖️",
+        "content": "Last weekend, my family went to the beach. The weather was sunny and hot.\nWe arrived at nine in the morning and put up a big umbrella.\nI swam in the blue sea with my brother for an hour.\nAt noon, we ate sandwiches and watermelon under the umbrella.\nIn the afternoon, my sister built a sand castle.\nWe came home at six, tired but very happy.\nIt was a wonderful weekend.",
+        "level_ordinal": 5,
+        "sort_order": 18
+    },
+    {
+        "id": "story_cooking_mom",
+        "title": "Cooking with Mom",
+        "emoji": "🍳",
+        "content": "On rainy Sundays, I love to cook with my mom.\nToday we are making pasta with tomato sauce.\nFirst, we boil water in a big pot. It takes ten minutes.\nWhile waiting, Mom cuts onions and tomatoes.\nI stir the sauce slowly so it doesn't burn.\nAt one o'clock, lunch is ready. The kitchen smells delicious.\nMy dad and brother love our cooking. They eat everything!",
+        "level_ordinal": 5,
+        "sort_order": 19
+    },
+    {
+        "id": "story_football_match",
+        "title": "The Football Match",
+        "emoji": "⚽",
+        "content": "Every Saturday afternoon, I play football with my team.\nWe wear red shirts. The other team wears blue.\nThe match starts at three o'clock. It lasts ninety minutes.\nIn the first half, we score two goals. The blue team scores one.\nIn the second half, I run fast and score the third goal!\nMy teammates cheer and hug me.\nWe win three to one. It was an amazing game.",
+        "level_ordinal": 5,
+        "sort_order": 20
+    },
+    {
+        "id": "story_train_ticket",
+        "title": "Buying a Train Ticket",
+        "emoji": "🚆",
+        "content": "I went to the train station to buy a ticket to London.\nAt the ticket office, I waited in line for ten minutes.\n\"Hello, one ticket to London, please,\" I said.\n\"Single or return?\" asked the clerk.\n\"Return, please. How much is it?\"\n\"Twenty-five pounds. The next train leaves at two thirty from platform six.\"\nI paid with a card and thanked the clerk.\nI bought a coffee and waited on the platform with my book.",
+        "level_ordinal": 6,
+        "sort_order": 21
+    },
+    {
+        "id": "story_post_office",
+        "title": "At the Post Office",
+        "emoji": "📮",
+        "content": "This morning, I went to the post office to send a package to my cousin in Spain.\n\"Good morning. I'd like to send this package, please,\" I said.\n\"Of course. Can you put it on the scale?\" said the clerk.\nThe package weighed two kilograms.\n\"How would you like to send it — standard or express?\" she asked.\n\"Express, please. When will it arrive?\"\n\"In three to five days. That will be eighteen euros.\"\nI paid in cash and got the receipt.",
+        "level_ordinal": 6,
+        "sort_order": 22
+    },
+    {
+        "id": "story_book_hotel",
+        "title": "Booking a Hotel",
+        "emoji": "🏨",
+        "content": "My wife and I planned a holiday in Rome for our anniversary.\nI called the Sunshine Hotel to book a room.\n\"Hello, I'd like to book a double room for three nights,\" I said.\n\"When would you like to come?\" the receptionist asked.\n\"From the fifteenth to the eighteenth of June.\"\n\"We have a lovely room with a balcony for one hundred euros per night.\"\n\"That's perfect. Does the price include breakfast?\"\n\"Yes, breakfast and free Wi-Fi are included.\"\nI gave my name and credit card number. We were ready for Rome!",
+        "level_ordinal": 6,
+        "sort_order": 23
     }
 ]
